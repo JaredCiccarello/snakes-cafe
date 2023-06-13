@@ -5,3 +5,7 @@ Author: Jared Ciccarello
 Links and Resources:
 https://github.com/JaredCiccarello/snakes-cafe
 
+Collaborators:
+Anthony Sinitsa
+Tammy Do
+ChatGPT
