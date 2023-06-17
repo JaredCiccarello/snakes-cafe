@@ -8,4 +8,4 @@ https://github.com/JaredCiccarello/snakes-cafe
 Collaborators:
 Anthony Sinitsa
 Tammy Do
-ChatGPT
+ChatGPT# math-series
