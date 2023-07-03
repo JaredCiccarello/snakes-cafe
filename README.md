@@ -9,3 +9,4 @@ Collaborators:
 Anthony Sinitsa
 Tammy Do
 ChatGPT# math-series
+# VERCEL
