@@ -97,8 +97,9 @@ def menu():
 menu()
 # if __name__ == "__main__":
 
-# Pay close attention to file structure when running your python3 test. In this case "python3 snakes_cafe.py".
+# Pay close attention to file structure when running your python3 test. In this case "python3 snakes_cafe.py"
 # Careful with your naming, in this case we named both our repo and our folder snakes-cafe. If we are outside of our folder then we will need to use
+
 # "python3 snakes-cafe/snakes_cafe.py"
 
 
